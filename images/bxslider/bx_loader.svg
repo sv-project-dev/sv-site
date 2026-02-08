@@ -1,4 +1,0 @@
-<svg width="50" height="25" viewBox="0 0 50 25" xmlns="http://www.w3.org/2000/svg">
-	<path id="infinity_s_loader" d="m25 12.5 5.3 5.3a7.5 7.5 0 1 0 0-10.6L25 12.5l-5.3 5.3a7.5 7.5 0 1 1 0-10.6l5.3 5.3"/>
-	<use xlink:href="#infinity_s_loader" stroke-dasharray="23 77" stroke-dashoffset="100px"/>
-</svg>
